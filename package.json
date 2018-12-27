@@ -1,0 +1,19 @@
+{
+  "name": "buscador_jeff",
+  "version": "1.0.0",
+  "description": "Evaluación curso back-end de certiificación de desarrollo web Next niversity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeffrey cortes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "httpdispatcher": "^2.0.1",
+    "jquery": "^3.3.1",
+    "socket.io": "^1.7.4",
+    "socket.io-client": "^1.7.2"
+  }
+}
